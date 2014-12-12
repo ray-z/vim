@@ -1,5 +1,5 @@
-# This is my vim configuration file and plugins.  
+### This is my vim configuration file and plugins.  
 
-## How to use:  
-Put vim and vimr in root directory.
+**How to use:**  
+Put vim and vimrc in root directory.
 
